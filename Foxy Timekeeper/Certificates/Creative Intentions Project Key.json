@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "plated-life-252205",
+  "private_key_id": "e661c41a2805165fa4f5a3d51f4c0a9d0ab7eaf0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDACfEHtQVQeYjJ\nsMxmY5sWSkxNiYFKO3UWDJKrhXls3OQKNYrCU74dhSeDWJtLBQ9+aau6n6kygVG+\nPPXh4gAP6fQ7L2b4SGK5rQ8bzMpGAvfvEzEQDZSn0itZsZ5xcmjLf84iE98+WJY6\nY3C0wcVG03NkNZmkgJ8JKUNKC/kLB/FqcUInkLEqb/jg/roso3fj//vXl14T0VNk\nUFPHaI7lb+3waoEUycjLAAIDfR+PmEtVUyFpGnCTt4iDVK90cyBlvCj7lWwNWywv\nYa+FQ4v5WNQY0y7gadi2EMXYwcaI5J0+28OnGope4Rg8w6xtUBlAzEIy/8RUiUMH\nOmvfl9RzAgMBAAECggEAFNhfafiWeZb0/VOsHvHGnAOiRwkF2D1zpwTkB4CcXsVB\nbvGYkiHN8V1f8yFzReWS5M6/8yjb5bK6Np4JC0+2ta4tsnOhnTzE6VEQN/J3Aw9/\nwzCVnZ+jwxhiApaa/hyETzvxxQAxi45zzCW5eQgkNl0YhEhPLlc/LBrnBiAePznu\nvMp0OhbDzwXEcA2sUNZHmLIumf4sopO9e7KNbP9Nqwni/0ipDCt52DW6xkJ3NENr\nWfBYTJn3M3Q+1t3VzoZgYVaE/724vBPaDCQgfXrBk0xsQ372wTycSDHzMjTLnAiy\nXGhTspvPjZtUxCmdSG3NtzMpjIqnIVmHrjxRBCwG9QKBgQDuQ7QVKUW+zM4KvxpK\nqBZNh9nk1EL8CSSkAh8IbbPocSTtpY7WdaeUZ0IOshmCwWsAsvtvu7XTNlL/ShEB\nix3z0tQzha1wy9O/8KL0iG3wiubnBpRg7yE0pNTMGnCBDgEPLFCTjRENwnl7NgWm\nNoSKMFZv4mqMf85gY8JVRUxHbQKBgQDOVWBQCtij4y/KEZMX7UxCvdLId37GsS5p\ny2EGj5rS+x0HBxcgt23xcUtMhayo7Ku5mk+BLotG6rNXX2vmUyxw7Y8aS4reNE6T\n/fzQXZk23CYqtOONZ+9oCANx8yVCyYaYJpx7QuGQ879aNMXgkiYpNIXYLd92pp0o\n2yn0AJu/XwKBgQCKIFPAxMl7IC3+iuUKDMHJNo16HBetFvvX3Kby8u4OPbGD16uj\n5lc9MFNaQ6OIaurGX/xlvPNeu6qH9v8+3tCBbmK4b7Gpp3BdYHqHuqPJhCzyF51j\nSJ3+b+QxYs5/8odorW8U6v3M9UYJyLqjrg1OM1GY0TClvN3+gTbCyka7TQKBgBDJ\neXCJsV6EGVtDWshTkiTL9N5CepoHyFLrLRWvkVUhAReVSBhtVBCUux+asJV9y+rp\n1xYXh1VZuwWcydaPZco6Sa5F/yJc9xerTmpVcyW3e5N17B2RGzVHkaAvvBRW+RBf\n89NDeb6lVigsqvy+Z0Rq9YjFEq1AmQC99AfaFNHZAoGACJxyjXtIZrTrjBtU6AjP\nTCIKUXixHVwR4vixDwV0fG3I5OTBR4pKhTh7JxQrOkWCsPTbPaJmlS2HidqduWxJ\n9HdkWDLSoE6MXNBdKAWzAyNWIb9eBahpBDFjUzNZn7JcUDzXdhU7QgElU5IVa0Xp\ny35k7yGVxkWEDf+HDfGmA5U=\n-----END PRIVATE KEY-----\n",
+  "client_email": "clever-intentions@plated-life-252205.iam.gserviceaccount.com",
+  "client_id": "106373833677541326514",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/clever-intentions%40plated-life-252205.iam.gserviceaccount.com"
+}
